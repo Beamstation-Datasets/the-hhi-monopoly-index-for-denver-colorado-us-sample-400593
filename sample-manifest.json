@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6aa9a52d-a204-4cda-a8c1-1f92cebacad7",
+  "export_job_id": "47dcae2d-8c09-453e-93d5-06327938647c",
   "id_short": 400593,
-  "published_at": "2026-04-12T07:25:22Z",
+  "published_at": "2026-04-18T08:01:19Z",
   "repo_name": "the-hhi-monopoly-index-for-denver-colorado-us-sample-400593",
   "sample_asset_name": "beamstation_400593_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/400593/beamstation_400593_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "2d17cd15476b7d4577127af9c24e4ca129004b222ef5fc53d7bfec3cc18db7b8",
-  "sample_size_bytes": 29359,
-  "total_records": 31
+  "sample_records": 2,
+  "sample_sha256": "128084c3b5f0fa6d30d144ea79281d5d94a56752090dcb2515e7b416f0e62851",
+  "sample_size_bytes": 24525,
+  "total_records": 24
 }
