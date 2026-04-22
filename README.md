@@ -9,9 +9,9 @@
 | Dataset ID | `400593` |
 | Location | Denver |
 | Category | Restaurants |
-| Full dataset size | 24 records |
-| Free sample size | 2 records (8.33%) |
-| Last export | 2026-04-14T21:58:43.089119+00:00 |
+| Full dataset size | 20 records |
+| Free sample size | 2 records (10.0%) |
+| Last export | 2026-04-22T14:40:17.394914+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-denver-colorado-us-sample-400593/releases/download/sample-latest/beamstation_400593_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
