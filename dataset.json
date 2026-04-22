@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Denver, Colorado, US",
-  "export_job_id": "47dcae2d-8c09-453e-93d5-06327938647c",
+  "export_job_id": "63390bc3-3bc5-4257-b14f-98cb65588fe5",
   "github_org": "Beamstation-Datasets",
   "id_short": 400593,
   "location_name": "Denver",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-denver-colorado-us-sample-400593",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/400593/beamstation_400593_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_pct": 8.33,
+  "sample_pct": 10.0,
   "sample_records": 2,
-  "sample_sha256": "128084c3b5f0fa6d30d144ea79281d5d94a56752090dcb2515e7b416f0e62851",
-  "sample_size_bytes": 24525,
-  "total_records": 24,
-  "updated_at": "2026-04-14T21:58:43.089119+00:00"
+  "sample_sha256": "2916e18f5d714118d824b811f79a9199b67bcc7ba25802ad6e64b5d536d4af21",
+  "sample_size_bytes": 24527,
+  "total_records": 20,
+  "updated_at": "2026-04-22T14:40:17.394914+00:00"
 }
